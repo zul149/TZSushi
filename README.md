@@ -1,4 +1,4 @@
-# Tz suchi
+# technical task Sushi
 Android Service application with implementing:
 * Сплеш Скрин: + 
 * Каталог: +
@@ -10,5 +10,5 @@ Android Service application with implementing:
 
 * Табы навигации по категориям (неактивные)
 * Кнопка «Поиск по каталогу» +, (поиск осуществляется по названию)
-* СплешСкрин -
+* Lottie -
 
